@@ -13,6 +13,8 @@ a:hover {color: #727AEC; text-decoration: none;}
 .placeholder:hover {background-color: #727AEC; transition: all ease-in-out .15s;}
 
 .navbar {background-color: #010323; transition: all ease-in-out .15s;}
+.navbar-brand {transition: all ease-in-out .35s;}
+.navbar-brand:hover {transform: scale(1.2); transition: all ease-in-out .35s;}
 .navbar-toggler {border: none;}
 a.nav-link {color: #fff !important;}
 .navbar-toggler {color: #fff !important;}
